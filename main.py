@@ -1,3 +1,8 @@
+from app import main
+
+
+main()
+
 print("Hello sudip")
 a=100
 b=200
